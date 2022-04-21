@@ -1,0 +1,1 @@
+In this project I extract data of the page quotes to scrape.
